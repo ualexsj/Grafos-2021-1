@@ -1,0 +1,246 @@
+Code,Country,Continent,Latitude,Longitude,Date,capital
+AF,Afghanistan,Asia,34.51666667,69.183333,2015-07-30,Kabul
+AX,Aland Islands,Europe,60.116667,19.9,2015-07-30,Mariehamn
+AL,Albania,Europe,41.31666667,19.816667,2015-07-30,Tirana
+DZ,Algeria,Africa,36.75,3.05,2015-07-30,Algiers
+AS,American Samoa,Australia,-14.26666667,-170.7,2015-07-30,Pago Pago
+AD,Andorra,Europe,42.5,1.516667,2015-07-30,Andorra la Vella
+AO,Angola,Africa,-8.833333333,13.216667,2015-07-30,Luanda
+AI,Anguilla,North America,18.21666667,-63.05,2015-07-30,The Valley
+AQ,Antarctica,Antarctica,0,0,2015-07-30,N/A
+AG,Antigua and Barbuda,North America,17.11666667,-61.85,2015-07-30,Saint John’s
+AR,Argentina,South America,-34.58333333,-58.666667,2015-07-30,Buenos Aires
+AM,Armenia,Europe,40.16666667,44.5,2015-07-30,Yerevan
+AW,Aruba,North America,12.51666667,-70.033333,2015-07-30,Oranjestad
+AU,Australia,Australia,-35.26666667,149.133333,2015-07-30,Canberra
+AT,Austria,Europe,48.2,16.366667,2015-07-30,Vienna
+AZ,Azerbaijan,Europe,40.38333333,49.866667,2015-07-30,Baku
+BS,Bahamas,North America,25.08333333,-77.35,2015-07-30,Nassau
+BH,Bahrain,Asia,26.23333333,50.566667,2015-07-30,Manama
+BD,Bangladesh,Asia,23.71666667,90.4,2015-07-30,Dhaka
+BB,Barbados,North America,13.1,-59.616667,2015-07-30,Bridgetown
+BY,Belarus,Europe,53.9,27.566667,2015-07-30,Minsk
+BE,Belgium,Europe,50.83333333,4.333333,2015-07-30,Brussels
+BZ,Belize,Central America,17.25,-88.766667,2015-07-30,Belmopan
+BJ,Benin,Africa,6.483333333,2.616667,2015-07-30,Porto-Novo
+BM,Bermuda,North America,32.28333333,-64.783333,2015-07-30,Hamilton
+BT,Bhutan,Asia,27.46666667,89.633333,2015-07-30,Thimphu
+BO,Bolivia,South America,-16.5,-68.15,2015-07-30,La Paz
+BA,Bosnia and Herzegovina,Europe,43.86666667,18.416667,2015-07-30,Sarajevo
+BW,Botswana,Africa,-24.63333333,25.9,2015-07-30,Gaborone
+BR,Brazil,South America,-15.78333333,-47.916667,2015-07-30,Brasilia
+IO,British Indian Ocean Territory,Africa,-7.3,72.4,2015-07-30,Diego Garcia
+VG,British Virgin Islands,North America,18.41666667,-64.616667,2015-07-30,Road Town
+BN,Brunei Darussalam,Asia,4.883333333,114.933333,2015-07-30,Bandar Seri Begawan
+BG,Bulgaria,Europe,42.68333333,23.316667,2015-07-30,Sofia
+BF,Burkina Faso,Africa,12.36666667,-1.516667,2015-07-30,Ouagadougou
+BI,Burundi,Africa,-3.366666667,29.35,2015-07-30,Bujumbura
+KH,Cambodia,Asia,11.55,104.916667,2015-07-30,Phnom Penh
+CM,Cameroon,Africa,3.866666667,11.516667,2015-07-30,Yaounde
+CA,Canada,Central America,45.41666667,-75.7,2015-07-30,Ottawa
+CV,Cape Verde,Africa,14.91666667,-23.516667,2015-07-30,Praia
+KY,Cayman Islands,North America,19.3,-81.383333,2015-07-30,George Town
+CF,Central African Republic,Africa,4.366666667,18.583333,2015-07-30,Bangui
+TD,Chad,Africa,12.1,15.033333,2015-07-30,N’Djamena
+CL,Chile,South America,-33.45,-70.666667,2015-07-30,Santiago
+CN,China,Asia,39.91666667,116.383333,2015-07-30,Beijing
+CX,Christmas Island,Australia,-10.41666667,105.716667,2015-07-30,The Settlement
+CC,Cocos Islands,Australia,-12.16666667,96.833333,2015-07-30,West Island
+CO,Colombia,South America,4.6,-74.083333,2015-07-30,Bogota
+KM,Comoros,Africa,-11.7,43.233333,2015-07-30,Moroni
+CK,Cook Islands,Australia,-21.2,-159.766667,2015-07-30,Avarua
+CR,Costa Rica,Central America,9.933333333,-84.083333,2015-07-30,San Jose
+CI,Cote d’Ivoire,Africa,6.816666667,-5.266667,2015-07-30,Yamoussoukro
+HR,Croatia,Europe,45.8,16,2015-07-30,Zagreb
+CU,Cuba,North America,23.11666667,-82.35,2015-07-30,Havana
+CW,CuraÃ§ao,North America,12.1,-68.916667,2015-07-30,Willemstad
+CY,Cyprus,Europe,35.16666667,33.366667,2015-07-30,Nicosia
+CZ,Czech Republic,Europe,50.08333333,14.466667,2015-07-30,Prague
+CD,Democratic Republic of the Congo,Africa,-4.316666667,15.3,2015-07-30,Kinshasa
+DK,Denmark,Europe,55.66666667,12.583333,2015-07-30,Copenhagen
+DJ,Djibouti,Africa,11.58333333,43.15,2015-07-30,Djibouti
+DM,Dominica,North America,15.3,-61.4,2015-07-30,Roseau
+DO,Dominican Republic,North America,18.46666667,-69.9,2015-07-30,Santo Domingo
+EC,Ecuador,South America,-0.216666667,-78.5,2015-07-30,Quito
+EG,Egypt,Africa,30.05,31.25,2015-07-30,Cairo
+SV,El Salvador,Central America,13.7,-89.2,2015-07-30,San Salvador
+GQ,Equatorial Guinea,Africa,3.75,8.783333,2015-07-30,Malabo
+ER,Eritrea,Africa,15.33333333,38.933333,2015-07-30,Asmara
+EE,Estonia,Europe,59.43333333,24.716667,2015-07-30,Tallinn
+ET,Ethiopia,Africa,9.033333333,38.7,2015-07-30,Addis Ababa
+FK,Falkland Islands,South America,-51.7,-57.85,2015-07-30,Stanley
+FO,Faroe Islands,Europe,62,-6.766667,2015-07-30,Torshavn
+FM,Federated States of Micronesia,Australia,6.916666667,158.15,2015-07-30,Palikir
+FJ,Fiji,Australia,-18.13333333,178.416667,2015-07-30,Suva
+FI,Finland,Europe,60.16666667,24.933333,2015-07-30,Helsinki
+FR,France,Europe,48.86666667,2.333333,2015-07-30,Paris
+PF,French Polynesia,Australia,-17.53333333,-149.566667,2015-07-30,Papeete
+TF,French Southern and Antarctic Lands,Antarctica,-49.35,70.216667,2015-07-30,Port-aux-FranÃ§ais
+GA,Gabon,Africa,0.383333333,9.45,2015-07-30,Libreville
+GE,Georgia,Europe,41.68333333,44.833333,2015-07-30,Tbilisi
+DE,Germany,Europe,52.51666667,13.4,2015-07-30,Berlin
+GH,Ghana,Africa,5.55,-0.216667,2015-07-30,Accra
+GI,Gibraltar,Europe,36.13333333,-5.35,2015-07-30,Gibraltar
+GR,Greece,Europe,37.98333333,23.733333,2015-07-30,Athens
+GL,Greenland,Central America,64.18333333,-51.75,2015-07-30,Nuuk
+GD,Grenada,North America,12.05,-61.75,2015-07-30,Saint George’s
+GU,Guam,Australia,13.46666667,144.733333,2015-07-30,Hagatna
+GT,Guatemala,Central America,14.61666667,-90.516667,2015-07-30,Guatemala City
+GG,Guernsey,Europe,49.45,-2.533333,2015-07-30,Saint Peter Port
+GN,Guinea,Africa,9.5,-13.7,2015-07-30,Conakry
+GW,Guinea-Bissau,Africa,11.85,-15.583333,2015-07-30,Bissau
+GY,Guyana,South America,6.8,-58.15,2015-07-30,Georgetown
+HT,Haiti,North America,18.53333333,-72.333333,2015-07-30,Port-au-Prince
+HM,Heard Island and McDonald Islands,Antarctica,0,0,2015-07-30,N/A
+HN,Honduras,Central America,14.1,-87.216667,2015-07-30,Tegucigalpa
+HK,Hong Kong,Asia,0,0,2015-07-30,N/A
+HU,Hungary,Europe,47.5,19.083333,2015-07-30,Budapest
+IS,Iceland,Europe,64.15,-21.95,2015-07-30,Reykjavik
+IN,India,Asia,28.6,77.2,2015-07-30,New Delhi
+ID,Indonesia,Asia,-6.166666667,106.816667,2015-07-30,Jakarta
+IR,Iran,Asia,35.7,51.416667,2015-07-30,Tehran
+IQ,Iraq,Asia,33.33333333,44.4,2015-07-30,Baghdad
+IE,Ireland,Europe,53.31666667,-6.233333,2015-07-30,Dublin
+IM,Isle of Man,Europe,54.15,-4.483333,2015-07-30,Douglas
+IL,Israel,Asia,31.76666667,35.233333,2015-07-30,Jerusalem
+IT,Italy,Europe,41.9,12.483333,2015-07-30,Rome
+JM,Jamaica,North America,18,-76.8,2015-07-30,Kingston
+JP,Japan,Asia,35.68333333,139.75,2015-07-30,Tokyo
+JE,Jersey,Europe,49.18333333,-2.1,2015-07-30,Saint Helier
+JO,Jordan,Asia,31.95,35.933333,2015-07-30,Amman
+KZ,Kazakhstan,Asia,51.16666667,71.416667,2015-07-30,Astana
+KE,Kenya,Africa,-1.283333333,36.816667,2015-07-30,Nairobi
+KI,Kiribati,Australia,-0.883333333,169.533333,2015-07-30,Tarawa
+KO,Kosovo,Europe,42.66666667,21.166667,2015-07-30,Pristina
+KW,Kuwait,Asia,29.36666667,47.966667,2015-07-30,Kuwait City
+KG,Kyrgyzstan,Asia,42.86666667,74.6,2015-07-30,Bishkek
+LA,Laos,Asia,17.96666667,102.6,2015-07-30,Vientiane
+LV,Latvia,Europe,56.95,24.1,2015-07-30,Riga
+LB,Lebanon,Asia,33.86666667,35.5,2015-07-30,Beirut
+LS,Lesotho,Africa,-29.31666667,27.483333,2015-07-30,Maseru
+LR,Liberia,Africa,6.3,-10.8,2015-07-30,Monrovia
+LY,Libya,Africa,32.88333333,13.166667,2015-07-30,Tripoli
+LI,Liechtenstein,Europe,47.13333333,9.516667,2015-07-30,Vaduz
+LT,Lithuania,Europe,54.68333333,25.316667,2015-07-30,Vilnius
+LU,Luxembourg,Europe,49.6,6.116667,2015-07-30,Luxembourg
+MO,Macau,Asia,0,0,2015-07-30,N/A
+MK,Macedonia,Europe,42,21.433333,2015-07-30,Skopje
+MG,Madagascar,Africa,-18.91666667,47.516667,2015-07-30,Antananarivo
+MW,Malawi,Africa,-13.96666667,33.783333,2015-07-30,Lilongwe
+MY,Malaysia,Asia,3.166666667,101.7,2015-07-30,Kuala Lumpur
+MV,Maldives,Asia,4.166666667,73.5,2015-07-30,Male
+ML,Mali,Africa,12.65,-8,2015-07-30,Bamako
+MT,Malta,Europe,35.88333333,14.5,2015-07-30,Valletta
+MH,Marshall Islands,Australia,7.1,171.383333,2015-07-30,Majuro
+MR,Mauritania,Africa,18.06666667,-15.966667,2015-07-30,Nouakchott
+MU,Mauritius,Africa,-20.15,57.483333,2015-07-30,Port Louis
+MX,Mexico,Central America,19.43333333,-99.133333,2015-07-30,Mexico City
+MD,Moldova,Europe,47,28.85,2015-07-30,Chisinau
+MC,Monaco,Europe,43.73333333,7.416667,2015-07-30,Monaco
+MN,Mongolia,Asia,47.91666667,106.916667,2015-07-30,Ulaanbaatar
+ME,Montenegro,Europe,42.43333333,19.266667,2015-07-30,Podgorica
+MS,Montserrat,North America,16.7,-62.216667,2015-07-30,Plymouth
+MA,Morocco,Africa,34.01666667,-6.816667,2015-07-30,Rabat
+MZ,Mozambique,Africa,-25.95,32.583333,2015-07-30,Maputo
+MM,Myanmar,Asia,16.8,96.15,2015-07-30,Rangoon
+NA,Namibia,Africa,-22.56666667,17.083333,2015-07-30,Windhoek
+NR,Nauru,Australia,-0.5477,166.920867,2015-07-30,Yaren
+NP,Nepal,Asia,27.71666667,85.316667,2015-07-30,Kathmandu
+NL,Netherlands,Europe,52.35,4.916667,2015-07-30,Amsterdam
+NC,New Caledonia,Australia,-22.26666667,166.45,2015-07-30,Noumea
+NZ,New Zealand,Australia,-41.3,174.783333,2015-07-30,Wellington
+NI,Nicaragua,Central America,12.13333333,-86.25,2015-07-30,Managua
+NE,Niger,Africa,13.51666667,2.116667,2015-07-30,Niamey
+NG,Nigeria,Africa,9.083333333,7.533333,2015-07-30,Abuja
+NU,Niue,Australia,-19.01666667,-169.916667,2015-07-30,Alofi
+NF,Norfolk Island,Australia,-29.05,167.966667,2015-07-30,Kingston
+KP,North Korea,Asia,39.01666667,125.75,2015-07-30,Pyongyang
+NULL,Northern Cyprus,Europe,35.183333,33.366667,2015-07-30,North Nicosia
+MP,Northern Mariana Islands,Australia,15.2,145.75,2015-07-30,Saipan
+NO,Norway,Europe,59.91666667,10.75,2015-07-30,Oslo
+OM,Oman,Asia,23.61666667,58.583333,2015-07-30,Muscat
+PK,Pakistan,Asia,33.68333333,73.05,2015-07-30,Islamabad
+PW,Palau,Australia,7.483333333,134.633333,2015-07-30,Melekeok
+PS,Palestine,Asia,31.76666667,35.233333,2015-07-30,Jerusalem
+PA,Panama,Central America,8.966666667,-79.533333,2015-07-30,Panama City
+PG,Papua New Guinea,Australia,-9.45,147.183333,2015-07-30,Port Moresby
+PY,Paraguay,South America,-25.26666667,-57.666667,2015-07-30,Asuncion
+PE,Peru,South America,-12.05,-77.05,2015-07-30,Lima
+PH,Philippines,Asia,14.6,120.966667,2015-07-30,Manila
+PN,Pitcairn Islands,Australia,-25.06666667,-130.083333,2015-07-30,Adamstown
+PL,Poland,Europe,52.25,21,2015-07-30,Warsaw
+PT,Portugal,Europe,38.71666667,-9.133333,2015-07-30,Lisbon
+PR,Puerto Rico,North America,18.46666667,-66.116667,2015-07-30,San Juan
+QA,Qatar,Asia,25.28333333,51.533333,2015-07-30,Doha
+CG,Republic of Congo,Africa,-4.25,15.283333,2015-07-30,Brazzaville
+RO,Romania,Europe,44.43333333,26.1,2015-07-30,Bucharest
+RU,Russia,Europe,55.75,37.6,2015-07-30,Moscow
+RW,Rwanda,Africa,-1.95,30.05,2015-07-30,Kigali
+BL,Saint Barthelemy,North America,17.88333333,-62.85,2015-07-30,Gustavia
+SH,Saint Helena,Africa,-15.93333333,-5.716667,2015-07-30,Jamestown
+KN,Saint Kitts and Nevis,North America,17.3,-62.716667,2015-07-30,Basseterre
+LC,Saint Lucia,North America,14,-61,2015-07-30,Castries
+MF,Saint Martin,North America,18.0731,-63.0822,2015-07-30,Marigot
+PM,Saint Pierre and Miquelon,Central America,46.76666667,-56.183333,2015-07-30,Saint-Pierre
+VC,Saint Vincent and the Grenadines,Central America,13.13333333,-61.216667,2015-07-30,Kingstown
+WS,Samoa,Australia,-13.81666667,-171.766667,2015-07-30,Apia
+SM,San Marino,Europe,43.93333333,12.416667,2015-07-30,San Marino
+ST,Sao Tome and Principe,Africa,0.333333333,6.733333,2015-07-30,Sao Tome
+SA,Saudi Arabia,Asia,24.65,46.7,2015-07-30,Riyadh
+SN,Senegal,Africa,14.73333333,-17.633333,2015-07-30,Dakar
+RS,Serbia,Europe,44.83333333,20.5,2015-07-30,Belgrade
+SC,Seychelles,Africa,-4.616666667,55.45,2015-07-30,Victoria
+SL,Sierra Leone,Africa,8.483333333,-13.233333,2015-07-30,Freetown
+SG,Singapore,Asia,1.283333333,103.85,2015-07-30,Singapore
+SX,Sint Maarten,North America,18.01666667,-63.033333,2015-07-30,Philipsburg
+SK,Slovakia,Europe,48.15,17.116667,2015-07-30,Bratislava
+SI,Slovenia,Europe,46.05,14.516667,2015-07-30,Ljubljana
+SB,Solomon Islands,Australia,-9.433333333,159.95,2015-07-30,Honiara
+SO,Somalia,Africa,2.066666667,45.333333,2015-07-30,Mogadishu
+NULL,Somaliland,Africa,9.55,44.05,2015-07-30,Hargeisa
+ZA,South Africa,Africa,-25.7,28.216667,2015-07-30,Pretoria
+GS,South Georgia and South Sandwich Islands,Antarctica,-54.283333,-36.5,2015-07-30,King Edward Point
+KR,South Korea,Asia,37.55,126.983333,2015-07-30,Seoul
+SS,South Sudan,Africa,4.85,31.616667,2015-07-30,Juba
+ES,Spain,Europe,40.4,-3.683333,2015-07-30,Madrid
+LK,Sri Lanka,Asia,6.916666667,79.833333,2015-07-30,Colombo
+SD,Sudan,Africa,15.6,32.533333,2015-07-30,Khartoum
+SR,Suriname,South America,5.833333333,-55.166667,2015-07-30,Paramaribo
+SJ,Svalbard,Europe,78.21666667,15.633333,2015-07-30,Longyearbyen
+SZ,Swaziland,Africa,-26.31666667,31.133333,2015-07-30,Mbabane
+SE,Sweden,Europe,59.33333333,18.05,2015-07-30,Stockholm
+CH,Switzerland,Europe,46.91666667,7.466667,2015-07-30,Bern
+SY,Syria,Asia,33.5,36.3,2015-07-30,Damascus
+TW,Taiwan,Asia,25.03333333,121.516667,2015-07-30,Taipei
+TJ,Tajikistan,Asia,38.55,68.766667,2015-07-30,Dushanbe
+TZ,Tanzania,Africa,-6.8,39.283333,2015-07-30,Dar es Salaam
+TH,Thailand,Asia,13.75,100.516667,2015-07-30,Bangkok
+GM,The Gambia,Africa,13.45,-16.566667,2015-07-30,Banjul
+TL,Timor-Leste,Asia,-8.583333333,125.6,2015-07-30,Dili
+TG,Togo,Africa,6.116666667,1.216667,2015-07-30,Lome
+TK,Tokelau,Australia,-9.166667,-171.833333,2015-07-30,Atafu
+TO,Tonga,Australia,-21.13333333,-175.2,2015-07-30,Nuku’alofa
+TT,Trinidad and Tobago,North America,10.65,-61.516667,2015-07-30,Port of Spain
+TN,Tunisia,Africa,36.8,10.183333,2015-07-30,Tunis
+TR,Turkey,Europe,39.93333333,32.866667,2015-07-30,Ankara
+TM,Turkmenistan,Asia,37.95,58.383333,2015-07-30,Ashgabat
+TC,Turks and Caicos Islands,North America,21.46666667,-71.133333,2015-07-30,Grand Turk
+TV,Tuvalu,Australia,-8.516666667,179.216667,2015-07-30,Funafuti
+UG,Uganda,Africa,0.316666667,32.55,2015-07-30,Kampala
+UA,Ukraine,Europe,50.43333333,30.516667,2015-07-30,Kyiv
+AE,United Arab Emirates,Asia,24.46666667,54.366667,2015-07-30,Abu Dhabi
+GB,United Kingdom,Europe,51.5,-0.083333,2015-07-30,London
+US,United States,Central America,38.883333,-77,2015-07-30,"Washington, D.C."
+UY,Uruguay,South America,-34.85,-56.166667,2015-07-30,Montevideo
+UM,US Minor Outlying Islands,Australia,38.883333,-77,2015-07-30,"Washington, D.C."
+VI,US Virgin Islands,North America,18.35,-64.933333,2015-07-30,Charlotte Amalie
+UZ,Uzbekistan,Asia,41.31666667,69.25,2015-07-30,Tashkent
+VU,Vanuatu,Australia,-17.73333333,168.316667,2015-07-30,Port-Vila
+VA,Vatican City,Europe,41.9,12.45,2015-07-30,Vatican City
+VE,Venezuela,South America,10.48333333,-66.866667,2015-07-30,Caracas
+VN,Vietnam,Asia,21.03333333,105.85,2015-07-30,Hanoi
+WF,Wallis and Futuna,Australia,-13.95,-171.933333,2015-07-30,Mata-Utu
+EH,Western Sahara,Africa,27.153611,-13.203333,2015-07-30,El-AaiÃºn
+YE,Yemen,Asia,15.35,44.2,2015-07-30,Sanaa
+ZM,Zambia,Africa,-15.41666667,28.283333,2015-07-30,Lusaka
+ZW,Zimbabwe,Africa,-17.81666667,31.033333,2015-07-30,Harare

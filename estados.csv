@@ -1,0 +1,55 @@
+codigo_uf,uf,nome,latitude,longitude,Date,capital
+11,Estados,Rondonia,-10.83,-63.34,2015-07-30,0
+12,Estados,Acre,-8.77,-70.55,2015-07-30,0
+13,Estados,Amazonas,-3.47,-65.1,2015-07-30,0
+14,Estados,Roraima,1.99,-61.33,2015-07-30,0
+15,Estados,Para,-3.79,-52.48,2015-07-30,0
+16,Estados,Amapa,1.41,-51.77,2015-07-30,0
+17,Estados,Tocantins,-9.46,-48.26,2015-07-30,0
+21,Estados,Maranhao,-5.42,-45.44,2015-07-30,0
+22,Estados,Piaui,-6.6,-42.28,2015-07-30,0
+23,Estados,Ceara,-5.2,-39.53,2015-07-30,0
+24,Estados,Rio Grande do Norte,-5.81,-36.59,2015-07-30,0
+25,Estados,Paraiba,-7.28,-36.72,2015-07-30,0
+26,Estados,Pernambuco,-8.38,-37.86,2015-07-30,0
+27,Estados,Alagoas,-9.62,-36.82,2015-07-30,0
+28,Estados,Sergipe,-10.57,-37.45,2015-07-30,0
+29,Estados,Bahia,-13.29,-41.71,2015-07-30,0
+31,Estados,Minas Gerais,-18.1,-44.38,2015-07-30,0
+32,Estados,Espirito Santo,-19.19,-40.34,2015-07-30,0
+33,Estados,Rio de Janeiro,-22.25,-42.66,2015-07-30,0
+35,Estados,Sao Paulo,-22.19,-48.79,2015-07-30,0
+41,Estados,Parana,-24.89,-51.55,2015-07-30,0
+42,Estados,Santa Catarina,-27.45,-50.95,2015-07-30,0
+43,Estados,Rio Grande do Sul,-30.17,-53.5,2015-07-30,0
+50,Estados,Mato Grosso do Sul,-20.51,-54.54,2015-07-30,0
+51,Estados,Mato Grosso,-12.64,-55.42,2015-07-30,0
+52,Estados,Goias,-15.98,-49.86,2015-07-30,0
+53,Estados,Distrito Federal,-15.83,-47.86,2015-07-30,0
+15,Municipios,Aracaju,-10.9091,-37.0677,2015-07-30,1
+31,Municipios,Belém,-1.4554,-48.4898,2015-07-30,1
+14,Municipios,Belo Horizonte,-19.9102,-43.9266,2015-07-30,1
+53,Municipios,Boa Vista,2.82384,-60.6753,2015-07-30,1
+50,Municipios,Brasília,-15.7795,-47.9297,2015-07-30,1
+51,Municipios,Campo Grande,-20.4486,-54.6295,2015-07-30,1
+41,Municipios,Cuiabá,-15.601,-56.0974,2015-07-30,1
+42,Municipios,Curitiba,-25.4195,-49.2646,2015-07-30,1
+23,Municipios,Florianópolis,-27.5945,-48.5477,2015-07-30,1
+52,Municipios,Fortaleza,-3.71664,-38.5423,2015-07-30,1
+25,Municipios,Goiânia,-16.6864,-49.2643,2015-07-30,1
+16,Municipios,João Pessoa,-7.11509,-34.8641,2015-07-30,1
+27,Municipios,Macapá,0.034934,-51.0694,2015-07-30,1
+13,Municipios,Maceió,-9.66599,-35.735,2015-07-30,1
+24,Municipios,Manaus,-3.11866,-60.0212,2015-07-30,1
+17,Municipios,Natal,-5.79357,-35.1986,2015-07-30,1
+43,Municipios,Palmas,-10.24,-48.3558,2015-07-30,1
+11,Municipios,Porto Alegre,-30.0318,-51.2065,2015-07-30,1
+26,Municipios,Porto Velho,-8.76077,-63.8999,2015-07-30,1
+12,Municipios,Recife,-8.04666,-34.8771,2015-07-30,1
+33,Municipios,Rio Branco,-9.97499,-67.8243,2015-07-30,1
+29,Municipios,Rio de Janeiro,-22.9129,-43.2003,2015-07-30,1
+21,Municipios,Salvador,-12.9718,-38.5011,2015-07-30,1
+35,Municipios,São Luís,-2.53874,-44.2825,2015-07-30,1
+22,Municipios,São Paulo,-23.5329,-46.6395,2015-07-30,1
+32,Municipios,Teresina,-5.09194,-42.8034,2015-07-30,1
+28,Municipios,Vitória,-20.3155,-40.3128,2015-07-30,1
