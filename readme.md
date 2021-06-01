@@ -36,12 +36,12 @@ $  source venv/bin/activate
 
 5. Instalando as dependências:
 ```
-$ (venv) pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 6. Execute o projeto:
 ```
-$ (env) python app.py
+$ python app.py
 ```
 
 7. Abra em seu navegador preferido:
