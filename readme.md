@@ -1,17 +1,17 @@
 # TWO-OPT 
 # Teoria dos Grafos - MATA53 
 
-Estetrabalho foi desenvolvido em python utilizando `Dash` e hospedado no `Heroku`
+Este trabalho foi desenvolvido em python utilizando `Dash` e hospedado no `Heroku`
 
 
-- Acessr o projeto: [Two-opt](https://two-opt.herokuapp.com/)
+- Acesse o projeto em : [Two-opt](https://two-opt.herokuapp.com/)
 
 ### Two-opt - 
 
 O two-opt é um algoritmo de busca local simples para solucionar o problema do caixeiro viajante. O objetivo principal é pegar uma rota que se cruza e reordená-la para que não ocorra.
 
 
-### Rodando projeto localmente -
+### 
 
 
 1. Instalar o `virtualenv`:
@@ -42,8 +42,9 @@ $ (venv) pip install -r requirements.txt
 6. Execute o projeto:
 ```
 $ (env) python app.py
+```
 
 7. Abra em seu navegador preferido:
-
+```
 $ http://localhost:8050
-
+```
