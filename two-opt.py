@@ -14,44 +14,44 @@ data01 = df.drop(["codigo_uf", "uf", "nome","Date","capital"], axis=1)
 daux=data01.values
 
 # Calcule a distância euclidiana no espaço n da rota r que atravessa as cidades c, terminando no início do caminho.
-path_distance = lambda r,c: np.sum([np.linalg.norm(c[r[p]]-c[r[p-1]]) for p in range(len(r))])
+caminho_distancia = lambda r,c: np.sum([np.linalg.norm(c[r[p]]-c[r[p-1]]) for p in range(len(r))])
 
 # Inverta a ordem de todos os elementos do elemento i para o elemento k na matriz r.
 two_opt_swap = lambda r,i,k: np.concatenate((r[0:i],r[k:-len(r)+i-1:-1],r[k+1:len(r)]))
 
-def two_opt(cities,improvement_threshold): # 2-opt Algorithm adaptado de https://en.wikipedia.org/wiki/2-opt
-    route = np.arange(cities.shape[0]) # Faça uma matriz de números de linha correspondendo a cidades.
-    improvement_factor = 1 # Inicializar o fator de melhoria.
-    best_distance = path_distance(route,cities) # Calcule a distância do caminho inicial.
-    while improvement_factor > improvement_threshold: # Se a rota ainda estiver melhorando, continue!
-        distance_to_beat = best_distance # Registre a distância no início do loop.
-        for swap_first in range(1,len(route)-2): # # De cada cidade, exceto a primeira e a última,
-            for swap_last in range(swap_first+1,len(route)): # para cada uma das seguintes cidades,
-                    new_route = two_opt_swap(route,swap_first,swap_last) # tente inverter a ordem dessas cidades
-                    new_distance = path_distance(new_route,cities) # e verifique a distância total com esta modificação.
-                    if new_distance < best_distance: # Se a distância do caminho for uma melhoria,
-                            route = new_route # torna esta a melhor rota aceita
-                            best_distance = new_distance # e atualize a distância correspondente a esta rota.
-        improvement_factor = 1 - best_distance/distance_to_beat # Calcule o quanto a rota melhorou.
-    return route # Quando a rota não estiver mais melhorando substancialmente, pare de pesquisar e retorne a rota.
+def two_opt(cidades,melhor_threshold): # 2-opt Algorithm adaptado de https://en.wikipedia.org/wiki/2-opt
+    rota = np.arange(cidades.shape[0]) # Faça uma matriz de números de linha correspondendo a cidades.
+    melhor_factor = 1 # Inicializar o fator de melhoria.
+    a_melhor_distancia = caminho_distancia(rota,cidades) # Calcule a distância do caminho inicial.
+    while melhor_factor > melhor_threshold: # Se a rota ainda estiver melhorando, continue!
+        distancia_to_beat = a_melhor_distancia # Registre a distância no início do loop.
+        for swap_first in range(1,len(rota)-2): # # De cada cidade, exceto a primeira e a última,
+            for swap_last in range(swap_first+1,len(rota)): # para cada uma das seguintes cidades,
+                    nova_rota = two_opt_swap(rota,swap_first,swap_last) # tente inverter a ordem dessas cidades
+                    nova_distancia = caminho_distancia(nova_rota,cidades) # e verifique a distância total com esta modificação.
+                    if nova_distancia < a_melhor_distancia: # Se a distância do caminho for uma melhoria,
+                            rota = nova_rota # torna esta a melhor rota aceita
+                            a_melhor_distancia = nova_distancia # e atualize a distância correspondente a esta rota.
+        melhor_factor = 1 - a_melhor_distancia/distancia_to_beat # Calcule o quanto a rota melhorou.
+    return rota # Quando a rota não estiver mais melhorando substancialmente, pare de pesquisar e retorne a rota.
 
 
 # Crie uma matriz de cidades, com cada linha sendo um local em 2 espaços (a função funciona em n dimensões).
-#cities = np.random.RandomState(42).rand(70,2)
-cities=daux
+#cidades = np.random.RandomState(42).rand(70,2)
+cidades=daux
 # Encontre uma boa rota com 2-opt ("rota" fornece a ordem de viagem para cada cidade por número de linha.)
-route = two_opt(cities,0.001)
+rota = two_opt(cidades,0.001)
 
 import matplotlib.pyplot as plt
 # Reordene a matriz de cidades por ordem de rota em uma nova matriz para plotagem.
-new_cities_order = np.concatenate((np.array([cities[route[i]] for i in range(len(route))]),np.array([cities[0]])))
+nova_cidades_ordem = np.concatenate((np.array([cidades[rota[i]] for i in range(len(rota))]),np.array([cidades[0]])))
 
 # Print a rota como números de linha e a distância total percorrida pelo caminho.
-#print("Route: " + str(route) + "\n\nDistance: " + str(path_distance(route,cities)))
+#print("rota: " + str(rota) + "\n\ndistancia: " + str(caminho_distancia(rota,cidades)))
 
 df_right=df
-lon = pd.DataFrame(new_cities_order[:,1])
-lat = pd.DataFrame(new_cities_order[:,0])
+lon = pd.DataFrame(nova_cidades_ordem[:,1])
+lat = pd.DataFrame(nova_cidades_ordem[:,0])
 df_right['CX_lon']=lon
 df_right['CX_lat']=lat
 
@@ -85,8 +85,6 @@ external_stylesheets = [
 ]
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
-
-app.title = "GRAFOS: Two-opt!"
 
 app.layout = html.Div(
     children=[
