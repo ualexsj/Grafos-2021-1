@@ -1,7 +1,7 @@
 # TWO-OPT 
 # Teoria dos Grafos - MATA53 
 
-Este trabalho foi desenvolvido em python utilizando `Dash` e hospedado no `Heroku`
+Este trabalho foi desenvolvido em python utilizando [Dash (Flask, Plotly.js, and React.js)](https://dash.plotly.com/introduction) e hospedado no [Heroku](https://www.heroku.com)
 
 
 - Acesse o projeto em : [Two-opt](https://two-opt.herokuapp.com/)
