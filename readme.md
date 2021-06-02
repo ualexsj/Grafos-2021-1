@@ -6,7 +6,7 @@ Este trabalho foi desenvolvido em python utilizando [Dash (Flask, Plotly.js, and
 
 - Acesse o projeto em : [Two-opt](https://two-opt.herokuapp.com/)
 
-### Two-opt - 
+## Two-opt
 
 O two-opt é um algoritmo de busca local simples para solucionar o problema do caixeiro viajante. O objetivo principal é pegar uma rota que se cruza e reordená-la para que não ocorra.
 
