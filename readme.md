@@ -13,38 +13,42 @@ O two-opt é um algoritmo de busca local simples para solucionar o problema do c
 
 ### 
 
+1. Instalar o `python3-venv`:
+```
+$ apt-get install python3-venv
+```
 
-1. Instalar o `virtualenv`:
+2. Instalar o `virtualenv`:
 ```
 $ pip3 install virtualenv
 ```
 
-2. Faça o clone do proejto para sua máquina:
+3. Faça o clone do proejto para sua máquina:
 ```
 $ git clone https://github.com/ualexsj/Grafos-2021-1
 ```
 
-3. Crie um ambiente virtual limpo chamado venv dentro desse diretório
+4. Crie um ambiente virtual limpo chamado venv dentro desse diretório
 ```
 $ python3 -m venv venv
 ```
 
-4. : Iniciando o Ambiente virtual :
+5. : Iniciando o Ambiente virtual :
 ```
 $  source venv/bin/activate
 ```
 
-5. Instalando as dependências:
+6. Instalando as dependências:
 ```
 $ pip install -r requirements.txt
 ```
 
-6. Execute o projeto:
+7. Execute o projeto:
 ```
 $ python app.py
 ```
 
-7. Abra em seu navegador preferido:
+8. Abra em seu navegador preferido:
 ```
 $ http://localhost:8050
 ```
